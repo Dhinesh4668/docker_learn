@@ -1,0 +1,5 @@
+1.docker version check 
+docker --version 
+
+
+docker basic: 
