@@ -1,8 +1,9 @@
 # 100 Days of Docker Challenge
 
-Welcome to the 100 Days of Docker Challenge! This challenge is designed to help you master Docker and Continuous Integration/Continuous Deployment (CI/CD) concepts over the next 100 days. Below is your roadmap for the challenge. Let's get started!
+Welcome to the 100 Days of Docker Challenge!.
+This challenge is designed to help you master Docker and Continuous Integration/Continuous Deployment (CI/CD) concepts over the next 100 days. Below is your roadmap for the challenge. 
+**Let's get started!**
 
-## ![Docker Header](![image](https://github.com/Dhinesh4668/docker_learn/assets/87540180/69f1c735-c329-4b64-afad-d3369c76c16d))
 
 ---
 
