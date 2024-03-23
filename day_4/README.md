@@ -77,6 +77,7 @@ the next , day we learn indepth of docker images ,crating a web application , po
 ---
 basic of docker [link](https://www.youtube.com/watch?v=3c-iBn73dDE&pp=ygUMZG9ja2VyIGJhc2lj)
 
+docker file readme.md ref [!docker-file-docker-doc.md](docker-file-docker-doc.md)
 dokcer file refference [link](https://docs.docker.com/reference/dockerfile/)
 
 example code click hear 👉 [!ex](./ex)
