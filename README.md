@@ -4,7 +4,7 @@ Welcome to the 100 Days of Docker Challenge!.
 This challenge is designed to help you master Docker and Continuous Integration/Continuous Deployment (CI/CD) concepts over the next 100 days. Below is your roadmap for the challenge. 
 **Let's get started!**
 
-
+1
 ---
 
 ## Week 1: Getting Started with Docker
