@@ -97,7 +97,7 @@
    - Run `docker run hello-world` to verify that Docker can pull and run containers.
 
 
-* ``docker commands`` 
+#  ``docker commands`` 
 
     1. docker version check 
 
