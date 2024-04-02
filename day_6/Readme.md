@@ -1,4 +1,4 @@
-# 100 days of docker learn is day 5
+# 100 days of docker learn is day 5 & 6
 ## in this session , we will see about in-depth knowlage of dockerfile , and docker images
 
 
@@ -79,42 +79,6 @@
             docker prune [option] conatiner [container.....] 
             ```
 
-
-    12. ``docker run Command:``
-The docker run command is used to create and start containers based on Docker images. Here are some common options:
-
-    * ``-d, --detach:`` Run container in the background.
-    
-    * ``-it, --interactive:`` Keep STDIN open even if not attached, allocate a pseudo-TTY.
-    
-    * ``-p, --publish:`` Publish a container's port(s) to the host.
-    
-    * ``-v, --volume:`` Bind mount a volume.
-
-    * ``--name:`` Assign a name to the container.
-    
-    * ``--rm:`` Automatically remove the container when it exits.
-    
-    * ``--env:`` Set environment variables.
-    
-    * ``--network:`` Connect a container to a network.
-
-``Example:``
-
-```bash 
-    docker run -d -p 8080:80 nginx
-```
-
-This command creates and starts a new container based on the nginx image, runs it in detached mode (-d), and publishes port 80 of the container to port 8080 on the host.
-
-Remember, these are just a few examples of Docker commands. There are many more options and variations available for each command. You can explore more by using docker --help or docker COMMAND --help.
-
 ##### thise are the some basic docker operations commands 
 
-* explore more means dokcer commands [! preview](../day_4/Dockerfile)
-
-* document refercence [! previrw](https://docs.docker.com/)
-
-# youtube refercene
-
-1. [![YouTube Preview](https://img.youtube.com/)](https://www.youtube.com/watch?v=3c-iBn73dDE&pp=ygUHZG9ja2VyIA%3D%3D)
+explore more means [!]
