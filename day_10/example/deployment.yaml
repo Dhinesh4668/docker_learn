@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: gitops-example
+  labels:
+    app: gitops-example
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: gitops-example
+  template:
+    metadata:
+      labels:
+        app: gitops-example
+    spec:
+      containers:
+      - name: gitops-example
+        image: dhinesh4668/gitops-example:latest
+        ports:
+        - containerPort: 80

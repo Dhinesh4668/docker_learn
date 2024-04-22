@@ -1,0 +1,13 @@
+# web_server.yaml
+apiVersion: v1
+kind: Pod
+metadata:
+  name: web-server
+spec:
+  containers:
+  - name: nginx
+    image: nginx:latest
+    ports:
+    - containerPort: 80
+  networks:
+  - name: my_bridge_net

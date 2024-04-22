@@ -1,0 +1,7 @@
+# my_bridge_net.yaml
+apiVersion: v1
+kind: Network
+metadata:
+  name: my_bridge_net
+spec:
+  driver: bridge
